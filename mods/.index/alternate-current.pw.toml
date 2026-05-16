@@ -1,0 +1,18 @@
+filename = 'alternate-current-mc26.1-1.9.0.jar'
+name = 'Alternate Current'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mc26.1-1.9.0'
+
+[download]
+hash = '9541b1c5abdc675259043c1b6e71ac48680ee1746635a62b4376a09944899a78f9615bd1a9f8d0b27910dd5e62bbdf3b9d7e4dba91a34f8dd4c3a08f584c5c13'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r0v8vy1s/versions/PGm6TCxh/alternate-current-mc26.1-1.9.0.jar'
+
+[update.modrinth]
+mod-id = 'r0v8vy1s'
+version = 'PGm6TCxh'

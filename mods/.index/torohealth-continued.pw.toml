@@ -1,0 +1,18 @@
+filename = 'torohealth-continued-fabric-26.1-1.5.1.jar'
+name = 'ToroHealth-Continued'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.1'
+
+[download]
+hash = '7a1ce8dc45fcfb2bc380e7341ba7af485efb940b79391987733fc819398908f56a8a23d27090e6f1c8ba6902ed349bc56108ecb23b446e94b6ebf71ca3776836'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/28cjn3lz/versions/Z2BydPYr/torohealth-continued-fabric-26.1-1.5.1.jar'
+
+[update.modrinth]
+mod-id = '28cjn3lz'
+version = 'Z2BydPYr'

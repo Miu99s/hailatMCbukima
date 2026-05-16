@@ -1,0 +1,25 @@
+filename = 'libIPN-fabric-26.1-6.7.2.jar'
+name = 'libIPN'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric-26.1-6.7.2'
+
+[download]
+hash = '819a771d6eef8baab79afecdfcab2f8a249a6d38bafea320d6f1e47b99edc8429fea6bc65822f0f95b1a846bdff57fdac3666dc6b34d3f85dd2a7c519506d6db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/onSQdWhM/versions/vpdIBdEn/libIPN-fabric-26.1-6.7.2.jar'
+
+[update.modrinth]
+mod-id = 'onSQdWhM'
+version = 'vpdIBdEn'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'

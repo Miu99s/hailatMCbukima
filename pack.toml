@@ -1,0 +1,12 @@
+name = "Mods"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fc519f9f6083c14e72c738d5b2f48d0e8d74be644eaea2b608b79878371963ef"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "26.1.2"
